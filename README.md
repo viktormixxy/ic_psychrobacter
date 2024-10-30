@@ -1,1 +1,39 @@
-# ic_psychrobacter
+# Avaliação da capacidade de sobrevivência a condições extremas da bactéria _Psychrobacter faecalis_ 
+## Referências
+- BAKERMANS, C. et al. Psychrobacter cryohalolentis sp. nov. and Psychrobacter articus sp. nov., isolated from Siberian permafrost. International Journal of Systematic and Evolutionary Microbiology, v. 56, p. 1285-1291, 2006.
+- BEBLO-VRANESEVIC, K. et al. Influence of osmotic stress on desiccation and irradiation tolerance of (hyper)-thermophilic microorganisms. Archives of Microbiology, v. 199, p. 17–28, 2016. 
+- BENDIA, Amanda G. et al. Surviving in hot and cold: psychrophiles and thermophiles from Deception Island volcano, Antarctica. Extremophiles, v. 22, p. 917-929, 14 ago. 2018.
+- CAVICCHIOLI, R. Extremophiles and the Search for Extraterrestrial Life. Astrobiology, v. 2, n. 3, p. 281–292, ago. 2002.
+- CAYOL et al. The Extreme Conditions of Life on the Planet and Exobiology. Environmental Microbiology, p. 353–394, 17 jul. 2014.
+- COKER et al. Recent advances in understanding extremophiles. F1000 Research, 13 nov. 2019.
+- DESCHAGHT, P. et al. Psychrobacter isolates of human origin, other than Psychrobacter phenylpyruvicus, are predominantly Psychrobacter faecalis and Psychrobacter pulmonis, with emended description of P. faecalis. International Journal of Systematic and Evolutionary Microbiology, v. 62, n. Pt_3, p. 671–674, 1 mar. 2012.
+- DORADO-MORALES, P. et al. A highly diverse, desert-like microbial biocenosis on solar panels in a Mediterranean city. Scientific Reports, v. 6, n. 1, jul. 2016.
+- GABANI, P.; SINGH, O. V. Radiation-resistant extremophiles and their potential in biotechnology and therapeutics. Applied Microbiology and Biotechnology, v. 97, n. 3, p. 993–1004, 1 fev. 2013.
+- GOOSEN, N.; MOOLENAAR, G. F. Repair of UV damage in bacteria. DNA Repair, v. 7, n. 3, p. 353–379, mar. 2008.
+- GOMES, E. et al. Enzimas termoestáveis: fontes, produção e aplicação industrial. Revista Química Nova, v. 30, n. 1, fev. 2007.
+- HORIKOSHI, K. Alkaliphiles: Some Applications of Their Products for Biotechnology. Microbiology and Molecular Biology Reviews, v. 63, n. 4, p. 735–750, 1 dez. 1999.
+- JOHNSON, D. B.; QUATRINI, R. Acidophile Microbiology in Space and Time. Current Issues in Molecular Biology, p. 63–76, 2020.
+- JUNI, E. Psychrobacter. Bergey’s Manual of Systematics of Archaea and Bacteria, p. 1–10, 14 set. 2015.
+- KÄMPFER, P. et al. Psychrobacter faecalis sp. nov., a New Species from a Bioaerosol Originating from Pigeon Faeces. Systematic and Applied Microbiology, v. 25, n. 1, p. 31–36, jan. 2002.
+- KOCHHAR, N. et al. Perspectives on the microorganism of extreme environments and their applications. Current Research in Microbial Sciences, v. 3, p. 100134, 2022.
+- KRULWICH, T. A. et al. Adaptive Mechanisms of Extreme Alkaliphiles. Extremophiles Handbook, p. 119–139, 2011.
+- KRULWICH, T. A.; HICKS, D. B.; ITO, M. Cation/proton antiporter complements of bacteria: why so large and diverse? Molecular Microbiology, v. 74, n. 2, p. 257–260, out. 2009.
+- MEADOR, J. A. et al. The significance of the Dewar valence photoisomer as a UV radiation‐induced DNA photoproduct in marine microbial communities. Environmental microbiology, v. 16, n. 6, p. 1808–1820, 5 mar. 2014.
+- MIRETE, S.; MORGANTE, V.; GONZÁLEZ-PASTOR, J. E. Acidophiles: Diversity and Mechanisms of Adaptation to Acidic Environments. Adaption of Microbial Life to Environmental Extremes, p. 227–251, 2017. 
+- MOELLER, R. et al. Roles of Small, Acid-Soluble Spore Proteins and Core Water Content in Survival of Bacillus subtilis Spores Exposed to Environmental Solar UV Radiation. Applied and Environmental Microbiology, v. 75, n. 16, p. 5202–5208, 19 jun. 2009.
+- MOURA, J. B. et al. Extremophilic taxa predominate in a microbial community of photovoltaic panels in a tropical region. FEMS Microbiology Letters, v. 368, n. 16, ago. 2021.
+- NOACK-SCHÖNMANN et al. Sub-aerial biofilms as blockers of solar radiation: spectral properties as tools to characterise material-relevant microbial growth. International Biodeterioration & Biodegradation, v. 86, p. 286–293, 1 jan. 2014.
+- PORCAR, M. et al. Microbial Ecology on Solar Panels in Berkeley, CA, United States. Frontiers in Microbiology, v. 9, 11 dez. 2018.
+- PREISS, L. et al. Alkaliphilic Bacteria with Impact on Industrial Applications, Concepts of Early Life Forms, and Bioenergetics of ATP Synthesis. Frontiers in Bioengineering and Biotechnology, v. 3, 3 jun. 2015.
+- RADDADI, N. et al. Biotechnological applications of extremophiles, extremozymes and extremolytes. Applied Microbiology and Biotechnology, v. 99, n. 19, p. 7907–7913, 14 ago. 2015.
+- RODRIGUES, D. F. et al. Biogeography of two cold-adapted genera: Psychrobacter and Exiguobacterium. The ISME Journal, v. 3, n. 6, p. 658–665, 26 mar. 2009.
+- SALWAN, R.; SHARMA, V. Physiology of extremophiles. Physiological and Biotechnological Aspects of Extremophiles, p. 13–22, 1 jan. 2020. 
+- SANTOS, A. L. et al. Wavelength dependence of biological damage induced by UV radiation on bacteria. Archives of Microbiology, v. 195, n. 1, p. 63–74, 23 out. 2012.
+- SARALOV, A. I. Adaptivity of Archaeal and Bacterial Extremophiles. Microbiology, v. 88, n. 4, p. 379–401, jul. 2019.
+- SARETHY, I. P. et al. Alkaliphilic bacteria: applications in industrial biotechnology. Journal of Industrial Microbiology & Biotechnology, v. 38, n. 7, p. 769–790, 11 abr. 2011.
+- SATARI, L.; IGLESIAS, A.; PORCAR, M. The Microbiome of Things: Appliances, Machines, and Devices Hosting Artificial Niche-Adapted Microbial Communities. Microorganisms, v. 11, n. 6, p. 1507, 1 jun. 2023.
+- SHIRAKAWA, M. A. et al. Microbial colonization affects the efficiency of photovoltaic panels in a tropical environment. Journal of Environmental Management, v. 157, p. 160–167, jul. 2015.
+- SHULKA, P. J et al. Marine Extremophiles: Adaptations and Biotechnological Applications. Encyclopedia of Marine Biotechnology, v. 5, p. 1753-1771, 2020.
+- SLADE, D.; RADMAN, M. Oxidative Stress Resistance in Deinococcus radiodurans. Microbiology and Molecular Biology Reviews, v. 75, n. 1, p. 133–191, 1 mar. 2011.
+- TANNER, K. et al. Extremophilic microbial communities on photovoltaic panel surfaces: a two‐year study. Microbial biotechnology, v. 13, n. 6, p. 1819–1830, 1 jul. 2020. 
+- ZEIDLER, S.; MULLER, V. The role of compatible solutes in desiccation resistance of Acinetobacter baumannii. MicrobiologyOpen, v.8, n. 740, 2018.
