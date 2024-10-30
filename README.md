@@ -1,5 +1,5 @@
-# Avaliação da capacidade de sobrevivência a condições extremas da bactéria _Psychrobacter faecalis_ 
-## Referências
+## Avaliação da capacidade de sobrevivência a condições extremas da bactéria _Psychrobacter faecalis_ 
+### Referências
 - BAKERMANS, C. et al. Psychrobacter cryohalolentis sp. nov. and Psychrobacter articus sp. nov., isolated from Siberian permafrost. International Journal of Systematic and Evolutionary Microbiology, v. 56, p. 1285-1291, 2006.
 - BEBLO-VRANESEVIC, K. et al. Influence of osmotic stress on desiccation and irradiation tolerance of (hyper)-thermophilic microorganisms. Archives of Microbiology, v. 199, p. 17–28, 2016. 
 - BENDIA, Amanda G. et al. Surviving in hot and cold: psychrophiles and thermophiles from Deception Island volcano, Antarctica. Extremophiles, v. 22, p. 917-929, 14 ago. 2018.
